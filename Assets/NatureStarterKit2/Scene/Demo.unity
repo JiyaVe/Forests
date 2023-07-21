@@ -1118,7 +1118,7 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 1, g: 0.6286842, b: 0.2588235, a: 1}
+  m_Color: {r: 0.2584905, g: 0.7493105, b: 1, a: 1}
   m_Intensity: 4.27
   m_Range: 10
   m_SpotAngle: 30
@@ -12015,7 +12015,7 @@ MonoBehaviour:
   sunTransform: {fileID: 0}
   radialBlurIterations: 2
   sunColor: {r: 0.98039216, g: 0.7066164, b: 0.35686272, a: 1}
-  sunThreshold: {r: 0.6654606, g: 0.972549, b: 0.3333333, a: 1}
+  sunThreshold: {r: 0.9716981, g: 0.7877656, b: 0.3336774, a: 1}
   sunShaftBlurRadius: 3.78
   sunShaftIntensity: 0.6
   maxRadius: 0.9
