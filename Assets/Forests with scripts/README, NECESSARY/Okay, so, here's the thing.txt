@@ -1,0 +1,13 @@
+Okay, so, here's the thing:
+The scripts  were taken from the National Parks projects  and modified to fit the current conditions, so please refer to all National parks(NPP) project in unity and assign all the assets as they were assigned in NPP. Also, the reason for why I couldn't write whole new scripts or modify the scripts more freely in order to make the asset assigning and game layout simpler is in the APOLOGY.txt.
+
+Here is the correspondence for you to refer to:(apart from the obvious ones)
+1.National Park is all the interface and scene you've set, which is very nice looking.
+Inside the 'Canvas'
+2.'Selection' is 'Selection'.
+Inside Selection
+3.The Ranthambore and Jimcorbett options were relaced by 'Explore Forests' option. Meanwhile the 'Control Text' remains the "control Text'.
+Inside the 'Canvas'
+4.The 'NationalParks' EmptyGameObject was replaced by 'ForestExploration' EmptyGameObject. Inside that 'Jimcorbett' and 'Ranthambore' were again replaced by 'ExploreForests' in which there are the 'Show Forest', 'Show animals','Show birds','Show Details','Next', and 'Prev' buttons.
+Also I have modified the 'Selection' script to only include 'ExploreForests' and 'ForestObject'. And the 'ParksExplore' script was modified into 'ExploreForests' script to remove Quiz option and Plants Option, which I dont know, was a necessary thing to do or not. Also, I noticed, only while writing these files actually, that you had put 'Animals' Game object under 'Show animals' Images and the 'Animals' had 'ParksExplore' script attached, along with the initial assets, and if that was the way you had wanted design to be, I am sorry for noticing after I was done making it the other way. 
+
